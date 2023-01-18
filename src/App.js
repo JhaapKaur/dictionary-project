@@ -11,7 +11,11 @@ function App() {
         <main>
           <Dictionary defaultKeyword="sunset" />
         </main>
-        <footer className="App-footer"> Coded by Jhaap Kaur</footer>
+        <footer className="App-footer">
+          <a href="https://github.com/JhaapKaur/dictionary-project">
+            Coded by Jhaap Kaur
+          </a>
+        </footer>
       </div>
     </div>
   );
